@@ -1,0 +1,67 @@
+# Video files
+Quickmeal.com.mp4
+*.mp4
+
+# Documentation files
+CLAUDE.md
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Database credentials (if you want to exclude them)
+# includes/db.php
+# admin/includes/db.php
+# customer/includes/db.php
+# cook/includes/db.php
+
+# Upload directories (uncomment if you want to exclude uploaded files)
+# admin/food_images/*
+# admin/other_images/*
+# customer/customer_images/*
+# !admin/food_images/.gitkeep
+# !admin/other_images/.gitkeep
+# !customer/customer_images/.gitkeep
+
+# PHP error logs
+error_log
+php_error.log
+
+# Session files
+sess_*
+
+# Cache files
+*.cache
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Environment files
+.env
+.env.local
+
+# Node modules (if any)
+node_modules/
+
+# Composer dependencies (if any)
+vendor/
+
+# Package manager locks (uncomment if needed)
+# composer.lock
+# package-lock.json
+# yarn.lock
