@@ -1,4 +1,4 @@
-# QuickDine - Restaurant Management & Ordering System
+# QuickMeal - Restaurant Management & Ordering System
 
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
@@ -29,7 +29,7 @@ A comprehensive restaurant management system with integrated sales prediction ca
 
 ## 🌟 Overview
 
-QuickDine is a full-stack web application that revolutionizes restaurant operations by providing:
+QuickMeal is a full-stack web application that revolutionizes restaurant operations by providing:
 - **Customer-facing ordering system** with intuitive UI
 - **Administrative dashboard** for complete restaurant management
 - **Kitchen management interface** for efficient order processing
@@ -189,7 +189,7 @@ chmod 755 customer/customer_images/
 
 ### Admin Access
 Default admin credentials:
-- **Email**: admin@quickdine.com
+- **Email**: admin@quickmeal.com
 - **Password**: admin123
 
 ⚠️ **Important**: Change these credentials after first login!
@@ -352,12 +352,12 @@ For detailed documentation including:
 
 ### Getting Help
 - Check the [documentation](https://docs.google.com/document/d/1OfIRwbgHyZ69X5E9fG4E88FUsHDVMPcKlTSOm0wyOZw/edit?usp=sharing)
-- Search existing [issues](https://github.com/mwaqasviki/Bachelor-FYP-Thesis/issues)
+- Search existing [issues](https://github.com/mwaqasviki/bachelor-project-thesis/issues)
 - Contact support: m.waqas.pgr@gmail.com
 
 ## 🤝 Contributing
 
-We welcome contributions to improve QuickDine! Please follow these steps:
+We welcome contributions to improve QuickMeal! Please follow these steps:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -418,13 +418,13 @@ Please report security vulnerabilities to: m.waqas.pgr@gmail.com
 - **Muhammad Waqas** - *Lead Developer* - [GitHub](https://github.com/mwaqasviki)
 
 ### Supervisor
-- **[Supervisor Name]** - *Project Supervisor*
+- **[Supervisor Name]** - *Prof. M. Iqbal*
 
 ## 📞 Contact
 
 For questions or support:
 - Email: m.waqas.pgr@gmail.com
-- LinkedIn: [Muhammad Waqas](https://www.linkedin.com/in/m-waqas-99ab40190/)
+- LinkedIn: [Muhammad Waqas](https://www.linkedin.com/in/muhammad-waqas-99ab40190/)
 
 ## 🙏 Acknowledgments
 
@@ -432,16 +432,11 @@ For questions or support:
 - Open source community for amazing tools and libraries
 - Beta testers for valuable feedback
 
-## 📄 Additional Resources
-
-- [Project Presentation Slides](https://docs.google.com/presentation/d/[PRESENTATION-ID]/edit?usp=sharing)
-- [Video Demo](https://www.youtube.com/watch?v=[VIDEO-ID])
-- [Live Demo](https://quickdine.demo.com) *(if available)*
-
 ---
 
 <p align="center">
   Made with ❤️ for Bachelor's Final Year Project Thesis
   <br>
   <sub>© 2022 Muhammad Waqas. All Rights Reserved.</sub>
+
 </p>
